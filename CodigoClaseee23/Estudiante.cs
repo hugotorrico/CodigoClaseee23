@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CodigoClaseee23
 {
-    public class Persona
+    public class Estudiante
     {
         public string Nombre { get; set; }
-        public int Edad { get; set; }
-        public string Pais { get; set; }
+        public int Nota { get; set; }
     }
 }
