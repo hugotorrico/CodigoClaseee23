@@ -9,6 +9,6 @@ namespace CodigoClaseee23
     public class Estudiante
     {
         public string Nombre { get; set; }
-        public int Nota { get; set; }
+        public int Nota1 { get; set; }
     }
 }
