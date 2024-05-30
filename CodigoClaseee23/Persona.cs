@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace CodigoClaseee23
 {
+    //segundo comentario
+    //cuarto comentario
+    //6to comentario
+    //7mo comentario
+    //Comentario pull
+    //commit merge
     public class Persona
     {
         public string Nombre { get; set; }
