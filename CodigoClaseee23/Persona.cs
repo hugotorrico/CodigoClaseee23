@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodigoClaseee23
 {
+    //segundo comentario
     public class Persona
     {
         public string Nombre { get; set; }
