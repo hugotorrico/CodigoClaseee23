@@ -11,6 +11,7 @@ namespace CodigoClaseee23
     //6to comentario
     //7mo comentario
     //Comentario pull
+    //commit merge
     public class Persona
     {
         public string Nombre { get; set; }
