@@ -9,6 +9,7 @@ namespace CodigoClaseee23
     //segundo comentario
     //cuarto comentario
     //6to comentario
+    //7mo comentario
     public class Persona
     {
         public string Nombre { get; set; }
